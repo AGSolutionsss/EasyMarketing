@@ -1,0 +1,1 @@
+export const baseURL = 'https://easemarketing.online/public/api';
